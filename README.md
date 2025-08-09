@@ -69,7 +69,7 @@ More projects coming soon!
 📦 How to Use This Repo
 	1.	Clone the repo
 ```
-git clone https://github.com/yourusername/learn-data-engineering.git
+git clone https://github.com/22nagendra/data_engineer.git
 cd learn-data-engineering
 ```
 

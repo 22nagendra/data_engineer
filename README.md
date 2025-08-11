@@ -70,7 +70,7 @@ More projects coming soon!
 	1.	Clone the repo
 ```
 git clone https://github.com/22nagendra/data_engineer.git
-cd learn-data-engineering
+cd data_engineer
 ```
 
 2.	Start learning

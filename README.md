@@ -121,7 +121,5 @@ If you found this helpful:
 ⸻
 
 🛠️ Work in Progress: This repository is updated weekly. Stay tuned for new modules, cheat sheets, and projects.
-✅ **Next Step**: Replace the `[#]` placeholder links with your actual LinkedIn, blog, or portfolio URLs.
 
-Let me know if you want a badge section (stars, forks, license), or if you’d like me to generate `LICENSE`, `.gitignore`, or a template project folder too.
 
